@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T15:47:15.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.107" etag="US5IYP63SyNzP3lNhwln" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-19T16:36:18.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.107" etag="7bhk_25zxv5ll0aAQPu-" version="14.4.2" type="github">
   <diagram id="e5wToZ6Jj2soGeOCWYj3" name="Page-1">
     <mxGraphModel dx="828" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
         <mxCell id="77KCPv3B4IZZ5Z66STRk-11" value="Datos completos api address y se puede enviar a FICO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="77KCPv3B4IZZ5Z66STRk-10" vertex="1">
           <mxGeometry y="30" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="77KCPv3B4IZZ5Z66STRk-20" value="ALERTA_API_CORE_NO_RESPONDE" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="77KCPv3B4IZZ5Z66STRk-20" value="ALERTA_API_CORE_NO_RESPONDE" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#9673a6;fillColor=#e1d5e7;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="480" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77KCPv3B4IZZ5Z66STRk-21" value="apis cards, persons, address no responde&lt;br&gt;Cod Lynx: XXXX" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="77KCPv3B4IZZ5Z66STRk-20" vertex="1">
@@ -81,7 +81,7 @@
             <mxPoint x="332.4000000000001" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="77KCPv3B4IZZ5Z66STRk-26" value="ALERTA_SIN_DATOS_CONTACTO" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="77KCPv3B4IZZ5Z66STRk-26" value="ALERTA_SIN_DATOS_CONTACTO" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#ffffff;collapsible=0;rounded=1;arcSize=30;strokeColor=#006EAF;fillColor=#1ba1e2;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="790" y="160" width="220" height="75" as="geometry" />
         </mxCell>
         <mxCell id="77KCPv3B4IZZ5Z66STRk-27" value="Alerta no tiene datos mandatorios para enviar a FICO&lt;br&gt;CodLynx: XXXX" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="77KCPv3B4IZZ5Z66STRk-26" vertex="1">
@@ -90,8 +90,8 @@
         <mxCell id="77KCPv3B4IZZ5Z66STRk-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="77KCPv3B4IZZ5Z66STRk-29" target="77KCPv3B4IZZ5Z66STRk-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="77KCPv3B4IZZ5Z66STRk-29" value="ALERTA_DATOS_RECIENTES" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="420" width="190" height="60" as="geometry" />
+        <mxCell id="77KCPv3B4IZZ5Z66STRk-29" value="ALERTA_DATOS_RECIENTES" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#ffffff;collapsible=0;rounded=1;arcSize=30;strokeColor=#006EAF;fillColor=#1ba1e2;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="900" y="470" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77KCPv3B4IZZ5Z66STRk-30" value="Actualización de datos Reciente&lt;br&gt;CodLynx: (-0515)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="77KCPv3B4IZZ5Z66STRk-29" vertex="1">
           <mxGeometry y="30" width="190" height="30" as="geometry" />
@@ -106,19 +106,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="77KCPv3B4IZZ5Z66STRk-31" value="ENVIADO_SMS" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="320" width="190" height="60" as="geometry" />
+          <mxGeometry x="1051" y="320" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77KCPv3B4IZZ5Z66STRk-32" value="Alerta fue recibida por FICO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="77KCPv3B4IZZ5Z66STRk-31" vertex="1">
           <mxGeometry y="30" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="77KCPv3B4IZZ5Z66STRk-35" value="ALERTA_CERRADA" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="200" width="190" height="60" as="geometry" />
+        <mxCell id="77KCPv3B4IZZ5Z66STRk-35" value="ALERTA_CERRADA" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#ffffff;collapsible=0;rounded=1;arcSize=30;strokeColor=#006EAF;fillColor=#1ba1e2;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="200" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77KCPv3B4IZZ5Z66STRk-36" value="Cliente Responde 1 (No fraude)&lt;br&gt;CodLynx: (-0509)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="77KCPv3B4IZZ5Z66STRk-35" vertex="1">
           <mxGeometry y="30" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="77KCPv3B4IZZ5Z66STRk-37" value="ALERTA_CONTACTADA" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="320" width="190" height="60" as="geometry" />
+        <mxCell id="77KCPv3B4IZZ5Z66STRk-37" value="ALERTA_CONTACTADA" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#ffffff;collapsible=0;rounded=1;arcSize=30;strokeColor=#006EAF;fillColor=#1ba1e2;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="1350" y="320" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77KCPv3B4IZZ5Z66STRk-38" value="Cliente responde 2 (Fraude)&lt;br&gt;CodLynx:&amp;nbsp;(0080)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="77KCPv3B4IZZ5Z66STRk-37" vertex="1">
           <mxGeometry y="30" width="190" height="30" as="geometry" />
@@ -126,7 +126,18 @@
         <mxCell id="77KCPv3B4IZZ5Z66STRk-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="77KCPv3B4IZZ5Z66STRk-39" target="77KCPv3B4IZZ5Z66STRk-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="77KCPv3B4IZZ5Z66STRk-39" value="ALERTA_NO_CONTACTADA" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="dr77cnrp0Dk-WK7C_Hbr-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77KCPv3B4IZZ5Z66STRk-39" target="77KCPv3B4IZZ5Z66STRk-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1600" y="380" />
+              <mxPoint x="1600" y="196" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dr77cnrp0Dk-WK7C_Hbr-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77KCPv3B4IZZ5Z66STRk-39" target="dr77cnrp0Dk-WK7C_Hbr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77KCPv3B4IZZ5Z66STRk-39" value="ALERTA_NO_CONTACTADA" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#ffffff;collapsible=0;rounded=1;arcSize=30;strokeColor=#006EAF;fillColor=#1ba1e2;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="1360" y="460" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77KCPv3B4IZZ5Z66STRk-40" value="Cliente no responde 0&lt;br&gt;CodLynx:&amp;nbsp;(-0510)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="77KCPv3B4IZZ5Z66STRk-39" vertex="1">
@@ -172,6 +183,15 @@
         </mxCell>
         <mxCell id="dr77cnrp0Dk-WK7C_Hbr-3" value="&lt;font style=&quot;font-size: 12px&quot;&gt;***No deben ingresar alertas fuera&lt;br&gt;de los segmentos permitidos.***&amp;nbsp;&lt;br&gt;(No se hara validacion de segmentos)&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="124" y="150" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dr77cnrp0Dk-WK7C_Hbr-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.565;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dr77cnrp0Dk-WK7C_Hbr-8" target="77KCPv3B4IZZ5Z66STRk-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dr77cnrp0Dk-WK7C_Hbr-8" value="ALERTA_EMAIL_ERRONEO" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#006EAF;fillColor=#1ba1e2;swimlaneFillColor=#ffffc0;dropTarget=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="560" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dr77cnrp0Dk-WK7C_Hbr-9" value="Email erroneo, equivocado&lt;br&gt;CodLynx:&amp;nbsp;(-0510)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="dr77cnrp0Dk-WK7C_Hbr-8">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
