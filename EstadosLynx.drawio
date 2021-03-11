@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T17:49:17.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="3syhLnEy3BmtJTccovgA" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T17:50:40.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="y_D6b2ziQ5nFbJVp0aCs" version="14.4.6" type="github">
   <diagram id="e5wToZ6Jj2soGeOCWYj3" name="Page-1">
     <mxGraphModel dx="828" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
         <mxCell id="77KCPv3B4IZZ5Z66STRk-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="77KCPv3B4IZZ5Z66STRk-8" target="77KCPv3B4IZZ5Z66STRk-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="77KCPv3B4IZZ5Z66STRk-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="77KCPv3B4IZZ5Z66STRk-10" target="77KCPv3B4IZZ5Z66STRk-26" edge="1">
+        <mxCell id="77KCPv3B4IZZ5Z66STRk-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.794;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="77KCPv3B4IZZ5Z66STRk-8" target="77KCPv3B4IZZ5Z66STRk-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="77KCPv3B4IZZ5Z66STRk-8" value="ALERTA_PERSONA" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
