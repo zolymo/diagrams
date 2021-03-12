@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T22:40:19.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="HtmvxvJ8tPVi_KXS-cyd" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T01:35:43.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="NFCLwfauAB-J5sbVD1WS" version="14.4.6" type="github">
   <diagram id="e5wToZ6Jj2soGeOCWYj3" name="Page-1">
-    <mxGraphModel dx="1380" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="690" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,8 +211,11 @@
         <mxCell id="DF0V8rczd2MYBJeqJLXW-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.495;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="DF0V8rczd2MYBJeqJLXW-8" target="77KCPv3B4IZZ5Z66STRk-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cCC_wAo5Gk7yveZZET_A-9" value="1ro *Se modifica el oRedis:&lt;br&gt;- BloqueoTemporal: Y/N&lt;br&gt;y se envia el Email de bloqueo temporal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="990" y="250" width="180" height="60" as="geometry" />
+        <mxCell id="cCC_wAo5Gk7yveZZET_A-15" value="1. Modifica el objetoRedis:&lt;br&gt;- BloqueoTemporal: Y/N&lt;br&gt;2. Envía email de bloqueo &lt;br&gt;(temporal) a digital ops&lt;br&gt;3. Registra el envio en &lt;br&gt;Tracking Lynx" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;fillColor=#FFFFC0;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="210" width="200" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="cCC_wAo5Gk7yveZZET_A-16" value="Si cumple regla de bloqueo temporal" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=none;align=left;verticalAlign=top;spacingLeft=10;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="187" width="5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
