@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T13:41:37.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.66" etag="gTvlvhRdJJivZMynF1bb" version="15.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T17:10:23.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.60" etag="IALi7vSPANe8P3LwPlZi" version="15.8.5" type="github">
   <diagram id="e5wToZ6Jj2soGeOCWYj3" name="Page-1">
-    <mxGraphModel dx="1895" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3729" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="90G6gJbZFidTqptF8gDu-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF1919;" parent="1" source="77KCPv3B4IZZ5Z66STRk-1" target="77KCPv3B4IZZ5Z66STRk-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tDKdMyrOGzaEZXIqc7HQ-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF1919;" edge="1" parent="1" source="77KCPv3B4IZZ5Z66STRk-1" target="tDKdMyrOGzaEZXIqc7HQ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="77KCPv3B4IZZ5Z66STRk-1" value="ALERTA_RECIBIDA" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
@@ -74,7 +77,7 @@
           <mxGeometry y="30" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="77KCPv3B4IZZ5Z66STRk-20" value="ALERTA_API_CORE_NO_RESPONDE" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#006EAF;fillColor=#1ba1e2;swimlaneFillColor=#ffffc0;dropTarget=0;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="670" y="480" width="250" height="70" as="geometry" />
+          <mxGeometry x="670" y="420" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="77KCPv3B4IZZ5Z66STRk-21" value="api address no responde&lt;br&gt;Cod Lynx: -0516 [BEDC]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="77KCPv3B4IZZ5Z66STRk-20" vertex="1">
           <mxGeometry y="30" width="250" height="40" as="geometry" />
@@ -298,6 +301,18 @@
         </mxCell>
         <mxCell id="meJ3Hm6bCnbv4KWAAB1v-2" value="&lt;u&gt;Cuando Existe alerta:&lt;/u&gt; Resetea el estado a ALERTA_RECIBIDA, Sin importar estado Actual.&lt;br&gt;&lt;u&gt;Cuando No existe Alerta:&lt;/u&gt; Registra" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="meJ3Hm6bCnbv4KWAAB1v-1" vertex="1">
           <mxGeometry y="30" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tDKdMyrOGzaEZXIqc7HQ-1" value="ALERTA_CON_BLOQUEO_PREVIO" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#ffffff;collapsible=0;rounded=1;arcSize=30;strokeColor=#006EAF;fillColor=#1ba1e2;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tDKdMyrOGzaEZXIqc7HQ-2" value="Tarjeta esta bloqueada&lt;br&gt;CodLynx: 0081 [BFBP]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="tDKdMyrOGzaEZXIqc7HQ-1">
+          <mxGeometry y="30" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tDKdMyrOGzaEZXIqc7HQ-3" value="Alerta no tiene nro telefono&lt;br&gt;CodLynx: -0510 [BICC]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="tDKdMyrOGzaEZXIqc7HQ-1">
+          <mxGeometry y="70" width="220" as="geometry" />
+        </mxCell>
+        <mxCell id="tDKdMyrOGzaEZXIqc7HQ-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF1919;" edge="1" parent="1" source="tDKdMyrOGzaEZXIqc7HQ-2" target="77KCPv3B4IZZ5Z66STRk-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
