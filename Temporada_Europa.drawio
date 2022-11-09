@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T08:52:02.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xVX-jklE96pBjqeGax3W" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T08:52:14.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Zl5ahH7cRz9fvQewoCEY" version="20.5.3" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="3387" dy="-416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2218" dy="-416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="315" y="2936.4666666666667" width="72" height="152" as="geometry" />
         </mxCell>
         <mxCell id="646" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CLIMATE&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#23445D;fillColor=#ffffff;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=#23445D;align=center;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="-470.0010526315789" y="2839.9966666666664" width="156" height="130" as="geometry" />
+          <mxGeometry x="23.998947368421113" y="2969.9966666666664" width="156" height="130" as="geometry" />
         </mxCell>
         <mxCell id="647" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;PRODUCERS&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#23445D;fillColor=#FFFFFF;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=#23445d;align=center;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="790" y="2720" width="156" height="130" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="200" y="3048.065350877193" width="156" height="130" as="geometry" />
         </mxCell>
         <mxCell id="651" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;DECOMPOSERS&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#23445D;fillColor=#ffffff;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=#23445D;align=center;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="-449.9999999999999" y="2679.999561403509" width="156" height="130" as="geometry" />
+          <mxGeometry x="44.000000000000114" y="2809.999561403509" width="156" height="130" as="geometry" />
         </mxCell>
         <mxCell id="aYw7Kfy-vIQ2TGN3p8bX-657" value="Dota 2 Champions League | Tier 3 &lt;br&gt;https://liquipedia.net/dota2/Dota_2_Champions_League/2022/Season_10&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
           <mxGeometry x="10" y="2500" width="860" height="90" as="geometry" />
