@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T21:11:53.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="nIJSc7vSETIXOH_EPNcF" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T21:13:17.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VmhUCLynXamOpUBqLiT5" version="20.6.0" type="github">
   <diagram id="e5wToZ6Jj2soGeOCWYj3" name="Page-1">
-    <mxGraphModel dx="2125" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7217" dy="2735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -275,15 +275,6 @@
         </mxCell>
         <mxCell id="fyI6EhqjK9DCoRPXTvLA-14" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Final de flujo&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;spacing=2;strokeWidth=1;horizontal=1;fontColor=#999999;" parent="fyI6EhqjK9DCoRPXTvLA-15" vertex="1">
           <mxGeometry x="135" y="151" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fLqlD2cx_nLfpuTeQDXq-2" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1170" y="1630" width="205" height="117" as="geometry" />
-        </mxCell>
-        <mxCell id="cCC_wAo5Gk7yveZZET_A-15" value="1. Modifica el objetoRedis:&lt;br&gt;- BloqueoTemporal: Y/N&lt;br&gt;2. Envía email de bloqueo &lt;br&gt;(temporal) a digital ops&lt;br&gt;3. Registra el envio en &lt;br&gt;Tracking Lynx" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;fillColor=#FFFFC0;" parent="fLqlD2cx_nLfpuTeQDXq-2" vertex="1">
-          <mxGeometry x="5" y="22" width="200" height="95" as="geometry" />
-        </mxCell>
-        <mxCell id="cCC_wAo5Gk7yveZZET_A-16" value="Si cumple regla de bloqueo temporal" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=none;align=left;verticalAlign=top;spacingLeft=10;fillColor=#FF0000;" parent="fLqlD2cx_nLfpuTeQDXq-2" vertex="1">
-          <mxGeometry width="5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fLqlD2cx_nLfpuTeQDXq-7" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="P6Ppndu3YUtAiaM16hDx-6" target="77KCPv3B4IZZ5Z66STRk-45" edge="1">
           <mxGeometry relative="1" as="geometry">
